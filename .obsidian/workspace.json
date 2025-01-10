@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "183f7a90a4b4356b",
+    "type": "split",
+    "children": [
+      {
+        "id": "be22e27944d448bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab37b206d42a694e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "x/books/Edgar Bodenheimer Jurisprudence and Legal Philosophy.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Edgar Bodenheimer Jurisprudence and Legal Philosophy"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f087178fa7f3864b",
+    "type": "split",
+    "children": [
+      {
+        "id": "d87944b08747195e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "070f5c84bccff8b0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f5b30d263e5b92f8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5e637900e0183776",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9f484fa6eb2557fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "a4d812531c64ce43",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "999ee6abc395d2d3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "x/books/Edgar Bodenheimer Jurisprudence and Legal Philosophy.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Edgar Bodenheimer Jurisprudence and Legal Philosophy"
+            }
+          },
+          {
+            "id": "9713d06fcd98652b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "x/books/Edgar Bodenheimer Jurisprudence and Legal Philosophy.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Edgar Bodenheimer Jurisprudence and Legal Philosophy"
+            }
+          },
+          {
+            "id": "e24110730128beb1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f97ce91ecf6e1a56",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "x/books/Edgar Bodenheimer Jurisprudence and Legal Philosophy.pdf"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Edgar Bodenheimer Jurisprudence and Legal Philosophy"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": true,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true
+    }
+  },
+  "active": "ab37b206d42a694e",
+  "lastOpenFiles": [
+    "x/books/Academic Curriculum.pdf",
+    "x/books/Jurisprudence-Class-Plan-2024.pdf",
+    "x/books/Edgar Bodenheimer Jurisprudence and Legal Philosophy.pdf",
+    "x/books/Raymond-Wacks-Understanding-Jurisprudence_-An-Introduction-to-Legal-Theory-Oxford-University-Press-2012-1.pdf",
+    "x/books/Suri-Ratnapala-Jurisprudence-2009.pdf",
+    "x/books/Scott Veitch, Emilios Christodoulidis, Marco Goldoni - Jurisprudence_ Themes and Concepts-Routledge (2018).pdf",
+    "x/books",
+    "x",
+    "+/-",
+    "+"
+  ]
+}
