@@ -11,12 +11,14 @@
             "id": "ab37b206d42a694e",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "x/books/Edgar Bodenheimer Jurisprudence and Legal Philosophy.pdf"
+                "file": "+/-/Untitled.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Edgar Bodenheimer Jurisprudence and Legal Philosophy"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ]
@@ -162,9 +164,10 @@
   },
   "active": "ab37b206d42a694e",
   "lastOpenFiles": [
+    "x/books/Edgar Bodenheimer Jurisprudence and Legal Philosophy.pdf",
+    "+/-/Untitled.md",
     "x/books/Academic Curriculum.pdf",
     "x/books/Jurisprudence-Class-Plan-2024.pdf",
-    "x/books/Edgar Bodenheimer Jurisprudence and Legal Philosophy.pdf",
     "x/books/Raymond-Wacks-Understanding-Jurisprudence_-An-Introduction-to-Legal-Theory-Oxford-University-Press-2012-1.pdf",
     "x/books/Suri-Ratnapala-Jurisprudence-2009.pdf",
     "x/books/Scott Veitch, Emilios Christodoulidis, Marco Goldoni - Jurisprudence_ Themes and Concepts-Routledge (2018).pdf",
