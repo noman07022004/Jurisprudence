@@ -1,0 +1,14 @@
+- The Command of the [[sovereign]] is low.
+- A low is a rule laid down for the guidance of an intelligent being by an intelligent being having power over him.
+- Law is divorced from justice.
+- Classification of Low which is abided by the society:
+	- Law set by God ([[divine law]]).
+	- Lows set by Humans
+		- Lows properly so called ([[positive law]])
+		- Other Lows ([[positive morality]])
+- Criticism:
+	- [[customs|Customs]] Overlooked
+	- Law may confer privileges.
+	- Judge made law
+	- International Law. (Positive Morality)
+	- Sanctions are not the only means to secure compliance.

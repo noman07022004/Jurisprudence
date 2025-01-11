@@ -1,0 +1,3 @@
+- There is a connection between Law and morals and that Law must be just and fair.
+- It attempts to resolve what 'is' and what 'ought' to be.
+- 

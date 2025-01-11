@@ -1,0 +1,6 @@
+- Jurisprudence is the eye of low.
+- "What is law?" is the question of Jurisprudence.
+- Rule may be a component of low but is incapable of becoming a low on itself.
+- The main objective of jurisprudence is to understand which are laws and which are not.
+- Jurisprudence throws light on several fundamental **legal concepts** in order to facilitate their **effective application** in deliberation of **legal problems**.
+- 

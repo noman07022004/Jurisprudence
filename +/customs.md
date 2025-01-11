@@ -1,0 +1,2 @@
+- Customs are the traditional rules or practices that a community has followed historically, often passed down through generations.
+- 

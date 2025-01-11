@@ -1,0 +1,3 @@
+- If a determinate human superior, not in a habit of obedience to alike superior, receives habitual obedience from the bulk of a given society, that determinate superior is sovereign in that society.
+- Sovereign is someone who orders others but no one orders him.
+- 

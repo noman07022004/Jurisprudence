@@ -1,0 +1,1 @@
+- The wish of the sovereign + [[sanction]] = law
