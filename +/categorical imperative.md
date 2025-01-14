@@ -1,0 +1,5 @@
+- the commands you must follow, regardless of your desires.
+- the universalizability principle
+	- Act only according to that [[maxim]] which you can at the same time will that it should become a [[universal law]] without contradiction. (Immanuel Kant)
+- the formula of humanity
+	- Act so that you treat humanity, whether in your own person or in that of another, always as an end, and never as a [[mere means]].

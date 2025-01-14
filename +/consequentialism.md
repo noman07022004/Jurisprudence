@@ -1,0 +1,1 @@
+- an action is right or wrong is judge by the outcome of the action not the action itself.

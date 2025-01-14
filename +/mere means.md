@@ -1,0 +1,1 @@
+- to use it only for your own benefit, with no thought to the interests or benefit of the thing you're using.

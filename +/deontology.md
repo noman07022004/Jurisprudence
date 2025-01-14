@@ -1,0 +1,2 @@
+- Deontology is an ethical theory that states some actions are right or wrong in themselves regardless of their consequences.
+- It is related to [[consequentialism]].
