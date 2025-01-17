@@ -1,0 +1,4 @@
+- Transcendental idealism is a philosophical attitude which attributes an autonomous existence to ideas and concepts formed by the human mind and denies that such ideas and concepts are merely human reactions to the empirical world of flux.
+- Empirical reality is to a great extent shaped by the ideas conceived or produced by human thinking.
+- Transcendental idealism also inclines to the belief that either knowledge of reality itself, or at least the forms, ways, and categories by which the human mind attempts to gain knowledge of reality, are not given a [[posteriori]], through sense experience, but a [[priori]], independently of empirical sense data.
+- In the most radical manifestations of this philosophy, human thought becomes converted into "The exclusive pillar of the universe."

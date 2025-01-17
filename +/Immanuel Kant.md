@@ -1,4 +1,6 @@
-
+### Introduction
+- Sensations are the only source of our knowledge of objects in the empirical world.
+- Sense experience is constituted by the human mind.
 
 ## ChatGPT
 Immanuel Kant (1724–1804), a German philosopher, made substantial contributions to legal philosophy and jurisprudence. His ideas are grounded in his broader philosophical system, emphasizing reason, autonomy, and moral duty. Kant’s legal theory is a cornerstone of **deontological ethics** and **modern jurisprudence**, particularly in the realm of natural law and the philosophy of rights.
